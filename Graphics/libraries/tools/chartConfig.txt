@@ -1,0 +1,16 @@
+windowWidth=1200
+windowHeight=800
+padding=100
+agendaWidth=100
+pointsSize=15
+fontSize=20
+fontURL=/usr/share/fonts/truetype/ubuntu-font-family/Ubuntu-BI.ttf
+maxX=10000.0
+maxY=10000.0
+mainTickStep=1000.0
+secTickStep=200.0
+backgroundColor=0,0,0
+textColor=255,255,255
+linesColors=2
+	255,0,0
+	0,255,0

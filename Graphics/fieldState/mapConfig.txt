@@ -1,0 +1,11 @@
+windowWidth=1200
+windowHeight=800
+padding=30
+agendaWidth=150
+fontSize=15
+fontURL=/usr/share/fonts/truetype/ubuntu-font-family/Ubuntu-BI.ttf
+backgroundColor=0,0,0
+textColor=255,255,255
+objectColors=2
+	255,0,0
+	0,255,0
